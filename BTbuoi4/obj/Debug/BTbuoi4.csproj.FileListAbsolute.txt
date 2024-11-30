@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\bin\Debug\BTbuoi4.exe.config
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\bin\Debug\BTbuoi4.exe
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\bin\Debug\BTbuoi4.pdb
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\obj\Debug\BTbuoi4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\obj\Debug\BTbuoi4.Form1.resources
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\obj\Debug\BTbuoi4.Nhan_vien.resources
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\obj\Debug\BTbuoi4.Properties.Resources.resources
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\obj\Debug\BTbuoi4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\obj\Debug\BTbuoi4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\obj\Debug\BTbuoi4.exe
+C:\Users\Admin\source\repos\thbuoi 4\BTbuoi4\obj\Debug\BTbuoi4.pdb
